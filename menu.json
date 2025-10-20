@@ -1,0 +1,17 @@
+[
+  {
+    "name_hy": "Շոկոլադե տորթ",
+    "name_en": "Chocolate cake",
+    "allergens": ["կաթ", "ձու", "գլյուտեն"]
+  },
+  {
+    "name_hy": "Կեսարյան աղցան",
+    "name_en": "Caesar salad",
+    "allergens": ["ձու", "ձուկ"]
+  },
+  {
+    "name_hy": "Պանրով պիցցա",
+    "name_en": "Cheese pizza",
+    "allergens": ["կաթ", "գլյուտեն"]
+  }
+]
